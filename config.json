@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productperify",
+        "uuid": 14503294,
+        "checksum": "7in0r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
